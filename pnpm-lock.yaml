@@ -123,6 +123,9 @@ importers:
       fs-extra:
         specifier: ^11.2.0
         version: 11.2.0
+      gsap:
+        specifier: ^3.12.4
+        version: 3.12.4
       lint-staged:
         specifier: ^15.2.0
         version: 15.2.0
@@ -6422,6 +6425,10 @@ packages:
 
   /graphemer@1.4.0:
     resolution: {integrity: sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag==}
+    dev: true
+
+  /gsap@3.12.4:
+    resolution: {integrity: sha512-1ByAq8dD0W4aBZ/JArgaQvc0gyUfkGkP8mgAQa0qZGdpOKlSOhOf+WNXjoLimKaKG3Z4Iu6DKZtnyszqQeyqWQ==}
     dev: true
 
   /handlebars@4.7.7:
